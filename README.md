@@ -35,21 +35,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="Git logo" />
 </div>
 
-## Development Principles
-
-- Write readable code before writing clever code.
-- Keep APIs simple, consistent, and well-structured.
-- Prefer small improvements done consistently over rushed complexity.
-- Learn by building, reviewing, refactoring, and documenting.
-- Treat version control as part of the development process, not just a backup.
-
-## Current Focus
-
-- Backend development with Java and Spring Boot.
-- REST API design and integration.
-- Relational databases with MySQL.
-- Project organization, Git workflow, and professional documentation.
-
 ## GitHub Statistics
 
 <div align="center">
