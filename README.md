@@ -1,4 +1,6 @@
-<h3 align="center">03 / Java Code Profile</h3>
+<h2 align="center">Newton Filho</h2>
+
+<h3 align="center">Backend Developer in Training</h3>
 
 ```java
 public class NewtonFilho {
