@@ -1,11 +1,11 @@
 <h2 align="center">Newton Filho</h2>
 
-<h3 align="center">Backend Developer in Training</h3>
+<h3 align="center">Backend Developer</h3>
 
 ```java
 public class NewtonFilho {
 
-    private final String role = "Backend Developer in Training";
+    private final String role = "Backend Developer";
     private final String stack = "Java, Spring Boot, MySQL";
     private final String mindset = "Clean code and consistent learning";
 
