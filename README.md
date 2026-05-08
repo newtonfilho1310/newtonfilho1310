@@ -1,4 +1,6 @@
-<h2 align="center">Newton Filho</h2>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F0F6FC&center=true&vCenter=true&width=520&lines=Newton+Filho" alt="Typing animation with Newton Filho" />
+</div>
 
 <h3 align="center">Backend Developer</h3>
 
