@@ -60,9 +60,3 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=newtonfilho1310&theme=dracula" height="180" alt="Repositories by language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=newtonfilho1310&theme=dracula" height="180" alt="GitHub statistics" />
 </div>
-
-## Contact
-
-You can find me on LinkedIn:
-
-[linkedin.com/in/newton-filho1310](https://www.linkedin.com/in/newton-filho1310/)
