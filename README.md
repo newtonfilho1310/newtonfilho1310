@@ -53,8 +53,12 @@
 ## GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=newtonfilho1310&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="Newton's GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=newtonfilho1310&layout=compact&theme=dracula" height="150" alt="Most used languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=newtonfilho1310&theme=dracula" alt="Newton's GitHub profile summary" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=newtonfilho1310&theme=dracula" height="180" alt="Repositories by language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=newtonfilho1310&theme=dracula" height="180" alt="GitHub statistics" />
 </div>
 
 ## Contact
